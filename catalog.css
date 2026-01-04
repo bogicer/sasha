@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: dce7fa;
+}
+nav a {
+    text-decoration: none;
+    background-color: #c1cede;
+    color:black;
+    border-radius: 45%;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:20px;
+    margin-right:20px;
+}
+.about{
+    background-color: #c1cede;
+    border-radius:45%;
+}
+.catlog{
+    background-color: #c1cede;
+    border-radius:45%;
+}
+.main{
+    background-color: #c1cede;
+    border-radius:45%;
+}
+.about:hover{
+    
+    background-color: #7571a0;
+}
+.catalog:hover{
+    
+    background-color:#7571a0 ;
+}
+.main:hover{ 
+    background-color: #7571a0;
+}
+img{
+    width:50px;
+    height:50px;
+}
