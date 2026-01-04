@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color:#481677;
+}
+
+p{
+    width: 70%;
+}
+
+main{
+   margin-left: 180px;
+}
+nav a{
+position:absolute;
+left:-80px;
+transition:0.3s;
+padding:15px;
+width:100px;
+text-decoration:none;
+font-size:20px;
+color:white;
+border-radius:0 5px 5px 0;
+
+}
+nav a:hover{
+    left:0;
+
+}
+.about{
+ top:20px;
+ background-color:#4CAF50 ;
+}
+.catalog{
+top:80px;
+background-color: #2196F3 ;
+}
+.main{
+    top:140px;
+    background-color: #f44336;
+}
+main{
+    background-color: #8FBC8F;
+}
